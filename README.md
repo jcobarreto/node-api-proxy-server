@@ -7,13 +7,13 @@ Server used for hiding API keys, rate limiting and caching. This uses the [OpenW
 ### Install dependencies
 
 ```bash
-npm install
+yarn init
 ```
 
 ### Run on http://localhost:4000
 
 ```bash
-npm run dev
+yarn dev
 ```
 
 ### Add public API info
